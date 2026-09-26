@@ -10,7 +10,7 @@ authors:
 version: 1.2.0
 date-released: "2026-09-26"
 license: MIT
-# doi: "10.5281/zenodo.XXXXXXX"   # add after archiving on Zenodo
+doi: "10.5281/zenodo.22976833"
 repository-code: "https://github.com/sifulrabbi2071/bob-eez-chl-coupling"
 keywords:
   - Bay of Bengal
