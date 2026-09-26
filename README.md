@@ -6,8 +6,7 @@ Analysis code and derived data for the study of 21 years (2005–2025) of sea
 surface temperature (SST), sea surface salinity (SSS) and surface chlorophyll-a
 (Chl-a) in the Bangladesh Exclusive Economic Zone (EEZ), northern Bay of Bengal.
 
-> **Before publishing:** add the GitHub URL, release date and Zenodo DOI to
-> `CITATION.cff`, and the paper DOI below once available.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22976833.svg)](https://doi.org/10.5281/zenodo.22976833)
 
 ---
 
