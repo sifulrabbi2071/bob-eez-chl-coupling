@@ -1,0 +1,9 @@
+Season,Coupling,partial_r_full,p_full,sig_full,n_full,partial_r_thresh10,p_thresh10,sig_thresh10,n_thresh10,partial_r_thresh15,p_thresh15,sig_thresh15,n_thresh15,partial_r_thresh20,p_thresh20,sig_thresh20,n_thresh20
+pre_monsoon,SST-Chl (control SSS),0.33,0.01,*,62,0.12,0.404,ns,54,0.1,0.474,ns,50,0.1,0.503,ns,49
+pre_monsoon,SSS-Chl (control SST),0.35,0.005,**,62,0.17,0.217,ns,54,0.16,0.274,ns,50,0.15,0.323,ns,49
+sw_monsoon,SST-Chl (control SSS),-0.02,0.831,ns,82,-0.05,0.706,ns,69,0.03,0.798,ns,65,-0.04,0.758,ns,58
+sw_monsoon,SSS-Chl (control SST),-0.32,0.004,**,82,-0.33,0.006,**,69,-0.38,0.002,**,65,-0.4,0.002,**,58
+post_monsoon,SST-Chl (control SSS),0.2,0.217,ns,41,0.2,0.217,ns,41,0.2,0.217,ns,41,0.2,0.217,ns,41
+post_monsoon,SSS-Chl (control SST),-0.59,0.0,***,41,-0.59,0.0,***,41,-0.59,0.0,***,41,-0.59,0.0,***,41
+winter,SST-Chl (control SSS),-0.39,0.002,**,62,-0.39,0.002,**,62,-0.39,0.002,**,62,-0.39,0.002,**,62
+winter,SSS-Chl (control SST),-0.23,0.078,ns,62,-0.23,0.078,ns,62,-0.23,0.078,ns,62,-0.23,0.078,ns,62

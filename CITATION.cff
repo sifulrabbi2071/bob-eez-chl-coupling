@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Seasonally shifting thermal–haline control of surface chlorophyll-a in the Bangladesh EEZ: analysis code and derived data"
+authors:
+  - family-names: "Rabbi"
+    given-names: "Md Siful Islam"
+    affiliation: "Noakhali Science and Technology University"
+    email: "sifulrabbi2871@gmail.com"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD if you have one
+version: 1.2.0
+# date-released: "2026-MM-DD"      # uncomment and set when you publish the release
+license: MIT
+# doi: "10.5281/zenodo.XXXXXXX"   # add after archiving on Zenodo
+# repository-code: "https://github.com/<username>/<repository>"   # uncomment after creating the GitHub repository
+keywords:
+  - Bay of Bengal
+  - Bangladesh EEZ
+  - sea surface temperature
+  - sea surface salinity
+  - chlorophyll-a
+  - physical–biological coupling
+  - remote sensing

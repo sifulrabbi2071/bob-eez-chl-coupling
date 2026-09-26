@@ -1,0 +1,5 @@
+§3.1  SST mean 28.0 °C (range 23.8–30.7); SSS mean 26.3 (range 19.1–31.2); Chl-a mean 0.53 mg m-3; valid Chl-a months 247
+§2.1  estuarine-channel cells: 3.1% of valid ocean-colour cells
+§2.3  max |weighted - unweighted| EEZ mean: SST 0.0115 °C; log10 Chl-a 0.0036
+§2.7  GLORYS12V1 EEZ-mean SST trend +0.37 °C/decade (Hirsch-Slack p=0.0003)
+§3.7  Chl-a significant increases north of 21 N: 42% (after FDR 35%); significant decreases south of 20 N: 57% (after FDR 38%)

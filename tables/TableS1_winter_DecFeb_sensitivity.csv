@@ -1,0 +1,4 @@
+Variable,Unit,Season,Sen_slope_decade,p_value,Significance,Trend,n_years,winter_years
+SST,°C/decade,winter_DecFeb_continuous,0.022,0.9225,ns,no trend,20,2006-2025
+SSS,PSU/decade,winter_DecFeb_continuous,-0.8273,0.0071,**,decreasing,20,2006-2025
+Chl-a,mg m-3/decade,winter_DecFeb_continuous,0.0632,0.0556,ns,no trend,20,2006-2025

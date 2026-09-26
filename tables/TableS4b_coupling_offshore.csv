@@ -1,0 +1,17 @@
+Domain,Season,Coupling,partial_r,p,sig,n
+full EEZ,pre_monsoon,SST-Chl (control SSS),0.18,0.1589,ns,63
+full EEZ,pre_monsoon,SSS-Chl (control SST),0.29,0.0221,*,63
+full EEZ,sw_monsoon,SST-Chl (control SSS),0.03,0.8043,ns,84
+full EEZ,sw_monsoon,SSS-Chl (control SST),-0.35,0.001,**,84
+full EEZ,post_monsoon,SST-Chl (control SSS),0.07,0.651,ns,42
+full EEZ,post_monsoon,SSS-Chl (control SST),-0.63,0.0,***,42
+full EEZ,winter,SST-Chl (control SSS),-0.45,0.0002,***,63
+full EEZ,winter,SSS-Chl (control SST),-0.02,0.8708,ns,63
+south of 21 N,pre_monsoon,SST-Chl (control SSS),-0.05,0.6878,ns,63
+south of 21 N,pre_monsoon,SSS-Chl (control SST),0.35,0.0055,**,63
+south of 21 N,sw_monsoon,SST-Chl (control SSS),0.03,0.7892,ns,84
+south of 21 N,sw_monsoon,SSS-Chl (control SST),-0.48,0.0,***,84
+south of 21 N,post_monsoon,SST-Chl (control SSS),-0.08,0.6305,ns,42
+south of 21 N,post_monsoon,SSS-Chl (control SST),-0.69,0.0,***,42
+south of 21 N,winter,SST-Chl (control SSS),-0.53,0.0,***,63
+south of 21 N,winter,SSS-Chl (control SST),0.24,0.0607,ns,63

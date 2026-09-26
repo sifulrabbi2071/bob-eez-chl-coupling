@@ -1,0 +1,5 @@
+season,mean,min,max,months_below_15pct
+pre_monsoon,52.7,0.0,89.0,13
+sw_monsoon,37.2,0.0,82.5,19
+post_monsoon,84.4,0.0,91.8,1
+winter,84.9,0.0,93.0,1

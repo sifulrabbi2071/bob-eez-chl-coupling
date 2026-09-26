@@ -1,0 +1,25 @@
+# Raw data — not redistributed (download from providers; see README)
+*.nc
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Downloaded boundary files (re-created by code/00b_get_EEZ.py)
+EEZ.zip
+*.geojson

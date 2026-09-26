@@ -1,0 +1,13 @@
+Variable,Season,n_years,lag1_autocorr_detrended,approx_95pct_limit,significant
+SST,pre_monsoon,21,-0.14,0.43,False
+SST,sw_monsoon,21,0.13,0.43,False
+SST,post_monsoon,21,-0.13,0.43,False
+SST,winter,21,0.25,0.43,False
+SSS,pre_monsoon,21,-0.16,0.43,False
+SSS,sw_monsoon,21,-0.22,0.43,False
+SSS,post_monsoon,21,-0.05,0.43,False
+SSS,winter,21,0.15,0.43,False
+Chl-a,pre_monsoon,21,-0.25,0.43,False
+Chl-a,sw_monsoon,21,-0.22,0.43,False
+Chl-a,post_monsoon,21,0.0,0.43,False
+Chl-a,winter,21,-0.02,0.43,False

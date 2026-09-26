@@ -1,0 +1,4 @@
+Variable,Unit,Sen_slope_decade,p_HirschSlack,Significance,p_uncorrected,n_valid_months
+SST,°C/decade,0.3196,0.0007,***,0.0,252
+SSS,PSU/decade,-0.3627,0.0274,*,0.0,252
+Chl-a,mg m-3/decade,0.038,0.1031,ns,0.0136,247

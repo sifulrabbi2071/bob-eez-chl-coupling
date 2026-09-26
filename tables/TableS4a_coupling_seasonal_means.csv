@@ -1,0 +1,9 @@
+Season,Coupling,partial_r,p,sig,n_years
+pre_monsoon,SST-Chl (control SSS),0.37,0.11,ns,21
+pre_monsoon,SSS-Chl (control SST),0.46,0.043,*,21
+sw_monsoon,SST-Chl (control SSS),0.06,0.786,ns,21
+sw_monsoon,SSS-Chl (control SST),-0.5,0.025,*,21
+post_monsoon,SST-Chl (control SSS),0.25,0.284,ns,21
+post_monsoon,SSS-Chl (control SST),-0.63,0.003,**,21
+winter,SST-Chl (control SSS),-0.46,0.042,*,21
+winter,SSS-Chl (control SST),-0.28,0.231,ns,21
