@@ -10,6 +10,7 @@ surface temperature (SST), sea surface salinity (SSS) and surface chlorophyll-a
 
 ---
 
+
 ## Overview
 
 The workflow combines **Google Earth Engine** (JavaScript; monthly EEZ-mean
